@@ -1,3 +1,8 @@
+# 5.0.1 (2022-10-24)
+
+### Bug Fixes
+* Removed forced setup of deployment target to 11.0 so it can be setup in main project config.xml
+
 # [5.0.0](https://github.com/ionic-team/cordova-plugin-ionic-webview/compare/v4.2.1...v5.0.0) (2020-05-27)
 
 
